@@ -25438,6 +25438,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/stitchfix-survey_service_client-5.15.1/db" />
       </SOURCES>
     </library>
+    <library name="stitchfix-survey_service_client (v5.15.3, RVM: ruby-2.3.1 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-survey_service_client-5.15.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-survey_service_client-5.15.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-survey_service_client-5.15.3/db" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-survey_service_client-5.15.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-survey_service_client-5.15.3/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-survey_service_client-5.15.3/db" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-weighted_array (v1.0.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-weighted_array-1.0.0/lib" />
