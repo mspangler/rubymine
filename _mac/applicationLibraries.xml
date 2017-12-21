@@ -3428,6 +3428,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/brakeman-4.0.1/bin" />
       </SOURCES>
     </library>
+    <library name="brakeman (v4.1.1, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/brakeman-4.1.1/bundle" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/brakeman-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/brakeman-4.1.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/brakeman-4.1.1/bundle" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/brakeman-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/brakeman-4.1.1/bin" />
+      </SOURCES>
+    </library>
     <library name="bugsnag (v5.3.3, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/bugsnag-5.3.3/lib" />
@@ -3562,6 +3574,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/bugsnag-6.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="bugsnag (v6.3.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bugsnag-6.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bugsnag-6.3.0/lib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -4460,6 +4480,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/bunny-2.7.2/profiling" />
       </SOURCES>
     </library>
+    <library name="bunny (v2.8.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/docker" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/docker" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/bunny-2.8.0/.github" />
+      </SOURCES>
+    </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.3.1 [clients]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@clients/gems/byebug-9.0.6/ext" />
@@ -4746,6 +4784,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/capybara-2.15.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/capybara-2.15.4/.yard" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.16.1, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/capybara-2.16.1/.yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/capybara-2.16.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/capybara-2.16.1/.yard" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/capybara-2.16.1/lib" />
       </SOURCES>
     </library>
     <library name="capybara (v2.7.1, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -10134,6 +10182,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@style-pass-service-client/gems/hashie-3.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.5.7, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/hashie-3.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/hashie-3.5.7/lib" />
+      </SOURCES>
+    </library>
     <library name="hike (v1.2.3, RVM: ruby-2.3.1 [mobile-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/hike-1.2.3/lib" />
@@ -11722,6 +11778,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/kramdown-1.15.0/benchmark" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/kramdown-1.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/kramdown-1.15.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="kramdown (v1.16.2, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/kramdown-1.16.2/man" />
       </SOURCES>
     </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -15188,6 +15260,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/pact-1.19.2/bin" />
       </SOURCES>
     </library>
+    <library name="pact (v1.20.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-1.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-1.20.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-1.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-1.20.0/bin" />
+      </SOURCES>
+    </library>
     <library name="pact-mock_service (v2.1.0, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/pact-mock_service-2.1.0/lib" />
@@ -15296,6 +15378,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/pact-mock_service-2.6.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/pact-mock_service-2.6.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="pact-mock_service (v2.6.3, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-mock_service-2.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-mock_service-2.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-mock_service-2.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pact-mock_service-2.6.3/lib" />
       </SOURCES>
     </library>
     <library name="pact-support (v1.1.2, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -16618,6 +16710,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/public_suffix-3.0.1/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.1, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/public_suffix-3.0.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/public_suffix-3.0.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/public_suffix-3.0.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/public_suffix-3.0.1/bin" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v3.0.1, RVM: ruby-2.4.1 [style-pass-service-client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@style-pass-service-client/gems/public_suffix-3.0.1/lib" />
@@ -16736,6 +16840,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/puma-3.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/puma-3.10.0/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/puma-3.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.11.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.11.0/bin" />
       </SOURCES>
     </library>
     <library name="puma (v3.8.2, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -16948,6 +17066,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/pwwka-0.15.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pwwka (v0.16.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pwwka-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pwwka-0.16.0/lib" />
       </SOURCES>
     </library>
     <library name="rabl (v0.13.1, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -20064,6 +20190,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/redis-3.3.5/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v4.0.1, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-4.0.1/benchmarking" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-4.0.1/.travis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-4.0.1/benchmarking" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-4.0.1/.travis" />
+      </SOURCES>
+    </library>
     <library name="redis-namespace (v1.5.3, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/redis-namespace-1.5.3/lib" />
@@ -20134,6 +20272,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/redis-namespace-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-namespace (v1.6.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-namespace-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/redis-namespace-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="request_store (v1.3.2, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -20484,6 +20630,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/resque-scheduler-4.3.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/resque-scheduler-4.3.1/exe" />
+      </SOURCES>
+    </library>
+    <library name="resque-scheduler (v4.3.1, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/resque-scheduler-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/resque-scheduler-4.3.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/resque-scheduler-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/resque-scheduler-4.3.1/exe" />
       </SOURCES>
     </library>
     <library name="resque_mailer (v2.4.3, RVM: ruby-2.3.1 [thenames]) [gem]">
@@ -21510,6 +21666,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.7.2, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/rspec-rails-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/rspec-rails-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-retry (v0.5.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -22870,6 +23034,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/sass-3.5.3/extra" />
       </SOURCES>
     </library>
+    <library name="sass (v3.5.4, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/extra" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-3.5.4/extra" />
+      </SOURCES>
+    </library>
     <library name="sass-listen (v4.0.0, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/sass-listen-4.0.0/lib" />
@@ -22980,6 +23158,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.7, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-rails-5.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
     </library>
     <library name="sassc (v1.11.2, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -23142,6 +23328,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/selenium-webdriver-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.8.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/selenium-webdriver-3.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/selenium-webdriver-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="semantic (v1.6.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
@@ -26914,6 +27108,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-styling_fee_service_client-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-styling_fee_service_client (v1.9.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/stitchfix-styling_fee_service_client-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/stitchfix-styling_fee_service_client-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-survey_service_client (v5.12.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-survey_service_client-5.12.0/config" />
@@ -28392,6 +28594,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/tins-1.16.0/tests" />
       </SOURCES>
     </library>
+    <library name="tins (v1.16.3, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/tins-1.16.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/tins-1.16.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/tins-1.16.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/tins-1.16.3/lib" />
+      </SOURCES>
+    </library>
     <library name="truancy_service_client (v0.10.1, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/truancy_service_client-0.10.1/lib" />
@@ -28656,6 +28868,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/uglifier-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.0.2, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/uglifier-4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/uglifier-4.0.2/lib" />
       </SOURCES>
     </library>
     <library name="unf (v0.1.4, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -29280,6 +29500,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/webrick-1.3.1/sample" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/webrick-1.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="webrick (v1.4.1, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/webrick-1.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/webrick-1.4.1/lib" />
       </SOURCES>
     </library>
     <library name="websocket (v1.2.4, RVM: ruby-2.3.1 [hellblazer]) [gem]">
