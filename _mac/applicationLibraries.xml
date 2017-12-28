@@ -5586,6 +5586,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="crass (v1.0.3, RVM: ruby-2.3.1 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/crass-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/crass-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="dalli (v2.7.6, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/dalli-2.7.6/lib" />
@@ -8168,6 +8176,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/faker-1.8.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="faker (v1.8.6, RVM: ruby-2.3.1 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/faker-1.8.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/faker-1.8.6/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.12.1, RVM: ruby-2.3.1 [clients]) [gem]">
@@ -12866,6 +12882,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/mini_mime-1.0.0/bench" />
       </SOURCES>
     </library>
+    <library name="mini_mime (v1.0.0, RVM: ruby-2.3.1 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/mini_mime-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/mini_mime-1.0.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/mini_mime-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/mini_mime-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/mini_mime-1.0.0/bench" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v1.0.0, RVM: ruby-2.3.3 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/mini_mime-1.0.0/lib" />
@@ -16894,6 +16922,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/puma-3.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="puma (v3.8.2, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/puma-3.8.2/ext" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.9.1, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/puma-3.9.1/lib" />
@@ -18160,6 +18206,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/rails-dom-testing-1.0.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.9, RVM: ruby-2.3.1 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/rails-dom-testing-1.0.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/rails-dom-testing-1.0.9/lib" />
       </SOURCES>
     </library>
     <library name="rails-dom-testing (v2.0.3, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -24790,6 +24844,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/stitchfix-core_models-14.0.0.RC1/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/stitchfix-core_models-14.0.0.RC1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/stitchfix-core_models-14.0.0.RC1/config" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-core_models (v14.1.0, RVM: ruby-2.3.1 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/stitchfix-core_models-14.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/stitchfix-core_models-14.1.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/stitchfix-core_models-14.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/stitchfix-core_models-14.1.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/stitchfix-core_models-14.1.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/stitchfix-core_models-14.1.0/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-db_connections (v0.10.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
