@@ -8296,20 +8296,20 @@
     </library>
     <library name="devise (v4.3.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/app" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/gemfiles" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/devise-4.3.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise (v4.3.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
@@ -14074,10 +14074,10 @@
     </library>
     <library name="immutable-struct (v2.3.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/immutable-struct-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/immutable-struct-2.3.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/immutable-struct-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/immutable-struct-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="immutable-struct (v2.3.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
@@ -14704,7 +14704,6 @@
     </library>
     <library name="json (v1.8.6, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-1.8.6/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-1.8.6/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-1.8.6/lib" />
@@ -14714,7 +14713,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-1.8.6/ext" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-1.8.6/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-1.8.6/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-1.8.6/lib" />
@@ -14886,7 +14884,6 @@
     </library>
     <library name="json (v2.1.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-2.1.0/references" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-2.1.0/tests" />
@@ -14897,7 +14894,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-2.1.0/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-2.1.0/references" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/json-2.1.0/tests" />
@@ -18924,20 +18920,22 @@
     </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/ports" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/suppressions" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/patches" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/ports" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/suppressions" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
