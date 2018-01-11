@@ -18254,6 +18254,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/jwt-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v2.1.0, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/jwt-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/jwt-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v1.0.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kaminari-1.0.1/misc" />
@@ -36878,6 +36886,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-client_facing_auth-0.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-client_facing_auth (v0.0.4, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/stitchfix-client_facing_auth-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/stitchfix-client_facing_auth-0.0.4/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-client_service_client (v3.1.2, RVM: ruby-2.3.1 [hellblazer]) [gem]">
