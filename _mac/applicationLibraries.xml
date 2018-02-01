@@ -34072,6 +34072,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@gregory/gems/stitchfix-experiments-2.1.0/db" />
       </SOURCES>
     </library>
+    <library name="stitchfix-experiments (v3.0.0.rc1, RVM: ruby-2.3.1 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/db" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-experiments-3.0.0.rc1/db" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-extras_recommendation_service_client (v1.0.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-1.0.0/lib" />
@@ -34140,6 +34154,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.1/.circleci" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-extras_recommendation_service_client (v2.1.4, RVM: ruby-2.3.1 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.4/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.4/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.4/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-extras_recommendation_service_client-2.1.4/tasks" />
       </SOURCES>
     </library>
     <library name="stitchfix-fix_service_client (v1.2.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -36300,6 +36326,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/stitchfix-payments-14.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/stitchfix-payments-14.2.0/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/stitchfix-payments-14.2.0/config" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-payments (v14.3.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/.circleci" />
       </SOURCES>
     </library>
     <library name="stitchfix-proof_of_life (v0.3.1, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
