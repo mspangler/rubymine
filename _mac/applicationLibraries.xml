@@ -2584,6 +2584,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/amq-protocol-2.2.0/profiling" />
       </SOURCES>
     </library>
+    <library name="amq-protocol (v2.3.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/codegen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/profiling" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/codegen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/amq-protocol-2.3.0/profiling" />
+      </SOURCES>
+    </library>
     <library name="angular-rails-templates (v0.3.0, RVM: ruby-2.3.1 [thenames]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/angular-rails-templates-0.3.0/lib" />
@@ -5326,6 +5340,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/braintree-2.81.0/lib" />
       </SOURCES>
     </library>
+    <library name="braintree (v2.81.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/braintree-2.81.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/braintree-2.81.0/lib" />
+      </SOURCES>
+    </library>
     <library name="brakeman (v3.7.0, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/brakeman-3.7.0/lib" />
@@ -5528,6 +5550,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/brakeman-4.1.1/bundle" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/brakeman-4.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/brakeman-4.1.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="brakeman (v4.1.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/brakeman-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/brakeman-4.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/brakeman-4.1.1/bundle" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/brakeman-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/brakeman-4.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/brakeman-4.1.1/bundle" />
       </SOURCES>
     </library>
     <library name="brakeman (v4.1.1, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
@@ -5760,6 +5794,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/bugsnag-6.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bugsnag (v6.6.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bugsnag-6.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bugsnag-6.6.1/lib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.3, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -6832,6 +6874,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/bunny-2.8.0/bin" />
       </SOURCES>
     </library>
+    <library name="bunny (v2.9.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/docker" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/benchmarks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/profiling" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/bunny-2.9.1/docker" />
+      </SOURCES>
+    </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.3.1 [clients]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@clients/gems/byebug-9.0.6/ext" />
@@ -7234,6 +7294,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/capybara-2.17.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/capybara-2.17.0/.yard" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.17.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/capybara-2.17.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/capybara-2.17.0/.yard" />
       </SOURCES>
     </library>
     <library name="capybara (v2.17.0, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
@@ -8524,6 +8594,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/ddtrace-0.10.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="ddtrace (v0.10.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/ddtrace-0.10.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/ddtrace-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/ddtrace-0.10.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/ddtrace-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ddtrace (v0.10.0, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/ddtrace-0.10.0/gemfiles" />
@@ -8936,6 +9016,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/devise-4.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/devise-4.4.0/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/devise-4.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.4.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/devise-4.4.0/guides" />
       </SOURCES>
     </library>
     <library name="devise-encryptable (v0.2.0, RVM: ruby-2.3.1 [client-service]) [gem]">
@@ -11646,6 +11744,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@gregory/gems/faker-1.8.5/lib" />
       </SOURCES>
     </library>
+    <library name="faker (v1.8.6, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/faker-1.8.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/faker-1.8.6/lib" />
+      </SOURCES>
+    </library>
     <library name="faker (v1.8.6, RVM: ruby-2.3.1 [thenames]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@thenames/gems/faker-1.8.6/lib" />
@@ -13196,6 +13302,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/fuubar-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fuubar (v2.3.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/fuubar-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/fuubar-2.3.1/lib" />
       </SOURCES>
     </library>
     <library name="ga_cookie_parser (v0.2.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -16342,6 +16456,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/kramdown-1.16.2/lib" />
       </SOURCES>
     </library>
+    <library name="kramdown (v1.16.2, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/benchmark" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/kramdown-1.16.2/lib" />
+      </SOURCES>
+    </library>
     <library name="kramdown (v1.16.2, RVM: ruby-2.5.0 [shipment_checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/kramdown-1.16.2/lib" />
@@ -18746,6 +18876,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.0/ext" />
       </SOURCES>
     </library>
+    <library name="msgpack (v1.2.2, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/doclib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/msgpack-1.2.2/doclib" />
+      </SOURCES>
+    </library>
     <library name="multi_json (v1.12.1, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/multi_json-1.12.1/lib" />
@@ -18904,6 +19048,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/multi_json-1.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.6.0, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -20012,6 +20164,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/nio4r-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.2.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.2.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nio4r-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nio4r-2.2.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nio4r-2.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.2.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nio4r-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nio4r-2.2.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nio4r-2.2.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.2.0, RVM: ruby-2.5.0 [client-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/nio4r-2.2.0/tasks" />
@@ -20122,6 +20288,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/suppressions" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nokogiri-1.8.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/ports" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/ports" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/suppressions" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/nokogiri-1.8.0/bin" />
       </SOURCES>
     </library>
     <library name="nokogiri (v1.8.1, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -21032,6 +21218,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/pact-1.20.0/bin" />
       </SOURCES>
     </library>
+    <library name="pact (v1.20.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-1.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-1.20.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-1.20.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-1.20.0/bin" />
+      </SOURCES>
+    </library>
     <library name="pact (v1.20.0, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/pact-1.20.0/lib" />
@@ -21210,6 +21406,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/pact-mock_service-2.6.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/pact-mock_service-2.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="pact-mock_service (v2.6.3, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-mock_service-2.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-mock_service-2.6.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-mock_service-2.6.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pact-mock_service-2.6.3/bin" />
       </SOURCES>
     </library>
     <library name="pact-mock_service (v2.6.3, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
@@ -22268,6 +22474,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/pry-0.11.3/bin" />
       </SOURCES>
     </library>
+    <library name="pry (v0.11.3, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pry-0.11.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pry-0.11.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pry-0.11.3/bin" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.11.3, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@style-pass-service/gems/pry-0.11.3/lib" />
@@ -22376,6 +22592,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/pry-byebug-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v3.5.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pry-byebug-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pry-byebug-3.5.1/lib" />
       </SOURCES>
     </library>
     <library name="pry-coolline (v0.2.5, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -23010,6 +23234,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/public_suffix-3.0.1/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/public_suffix-3.0.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/public_suffix-3.0.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/public_suffix-3.0.1/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/public_suffix-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/public_suffix-3.0.1/bin" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v3.0.1, RVM: ruby-2.4.1 [style-pass-service-client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1@style-pass-service-client/gems/public_suffix-3.0.1/lib" />
@@ -23492,6 +23728,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/pwwka-0.16.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pwwka (v0.16.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pwwka-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/pwwka-0.16.0/lib" />
       </SOURCES>
     </library>
     <library name="pwwka (v0.16.0, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
@@ -24302,6 +24546,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/rack-test-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v0.8.2, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rack-test-0.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rack-test-0.8.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.8.2, RVM: ruby-2.3.1 [style-pass-service]) [gem]">
@@ -28972,6 +29224,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/rspec-core-3.7.1/exe" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.7.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rspec-core-3.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rspec-core-3.7.1/exe" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.7.1, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/rspec-core-3.7.1/lib" />
@@ -29638,6 +29900,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.7.2, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rspec-rails-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/rspec-rails-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-rails (v3.7.2, RVM: ruby-2.5.0 [shipment_checkout]) [gem]">
@@ -31358,6 +31628,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/sass-3.5.4/bin" />
       </SOURCES>
     </library>
+    <library name="sass (v3.5.5, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/rails" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-3.5.5/bin" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.5.5, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/sass-3.5.5/lib" />
@@ -31530,6 +31814,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@shipment_checkout/gems/sass-rails-5.0.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.7, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-rails-5.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
     </library>
     <library name="sass-rails (v5.0.7, RVM: ruby-2.5.0 [shipment_checkout]) [gem]">
@@ -32990,6 +33282,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/stitchfix-address-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-address (v1.5.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-address-1.5.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-address-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-address-1.5.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-address-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-admin_auth (v4.8.0, RVM: ruby-2.3.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@styling-fee-service/gems/stitchfix-admin_auth-4.8.0/lib" />
@@ -33046,6 +33348,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@gregory/gems/stitchfix-api_client-1.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-api_client (v1.13.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-api_client-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-api_client-1.13.0/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-api_client (v1.13.0, RVM: ruby-2.3.1 [thenames]) [gem]">
@@ -33270,6 +33580,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@gregory/gems/stitchfix-client_service_client-3.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-client_service_client (v3.10.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-client_service_client-3.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-client_service_client-3.10.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-client_service_client-3.10.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-client_service_client-3.10.0/.circleci" />
       </SOURCES>
     </library>
     <library name="stitchfix-client_service_client (v3.2.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
@@ -33640,6 +33960,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/stitchfix-core_models-14.1.0/db" />
       </SOURCES>
     </library>
+    <library name="stitchfix-core_models (v14.2.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-core_models-14.2.0/.circleci" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-db_connections (v0.10.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-db_connections-0.10.0/lib" />
@@ -33822,6 +34156,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/stitchfix-db_connections-1.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-db_connections (v1.5.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-db_connections-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-db_connections-1.5.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-db_connections-1.5.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-db_connections-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-db_connections-1.5.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-db_connections-1.5.1/.circleci" />
       </SOURCES>
     </library>
     <library name="stitchfix-event_machinery (v1.14.0, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -34030,6 +34376,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/stitchfix-experiments-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-experiments (v2.0.0.RC1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-experiments-2.0.0.RC1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-experiments-2.0.0.RC1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-experiments-2.0.0.RC1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-experiments-2.0.0.RC1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-experiments-2.0.0.RC1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-experiments-2.0.0.RC1/lib" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-experiments (v2.0.0.RC1, RVM: ruby-2.3.3 [gregory]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@gregory/gems/stitchfix-experiments-2.0.0.RC1/config" />
@@ -34130,6 +34488,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-1.6.0/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-extras_recommendation_service_client (v2.0.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-2.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-2.0.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-2.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-2.0.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-extras_recommendation_service_client-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-extras_recommendation_service_client (v2.0.0, RVM: ruby-2.3.1 [thenames]) [gem]">
@@ -36328,6 +36698,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/stitchfix-payments-14.2.0/config" />
       </SOURCES>
     </library>
+    <library name="stitchfix-payments (v14.2.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-payments-14.2.1/config" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-payments (v14.3.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-payments-14.3.0/config" />
@@ -36954,6 +37338,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/stitchfix-shipments-8.55.1/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-shipments (v8.55.1, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-shipments-8.55.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-shipments-8.55.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-shipments-8.55.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-shipments-8.55.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-shipments-8.55.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-shipments-8.55.1/lib" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-style-pass-service-client (v0.0.1, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-style-pass-service-client-0.0.1/lib" />
@@ -37090,6 +37486,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-styling_fee_service_client-1.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-styling_fee_service_client (v1.9.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-styling_fee_service_client-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-styling_fee_service_client-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-styling_fee_service_client (v1.9.0, RVM: ruby-2.5.0 [shipment_checkout]) [gem]">
@@ -39058,6 +39462,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/tins-1.16.3/lib" />
       </SOURCES>
     </library>
+    <library name="tins (v1.16.3, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/tins-1.16.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/tins-1.16.3/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/tins-1.16.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/tins-1.16.3/tests" />
+      </SOURCES>
+    </library>
     <library name="tins (v1.16.3, RVM: ruby-2.5.0 [shipment_checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@shipment_checkout/gems/tins-1.16.3/lib" />
@@ -39398,6 +39812,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/uglifier-4.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.3, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/uglifier-4.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/uglifier-4.1.3/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v4.1.3, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
@@ -39770,6 +40192,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/vcr-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="vcr (v4.0.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/vcr-4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/vcr-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="vegas (v0.1.11, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -40174,6 +40604,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/webrick-1.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="webrick (v1.4.2, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/webrick-1.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/webrick-1.4.2/lib" />
       </SOURCES>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.0 [client-service]) [gem]">
@@ -40910,6 +41348,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@client-service/gems/xpath-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v3.0.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/xpath-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/xpath-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v3.0.0, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
