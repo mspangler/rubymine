@@ -24238,6 +24238,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/mustermann-1.0.1/bench" />
       </SOURCES>
     </library>
+    <library name="mustermann (v1.0.2, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/mustermann-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/mustermann-1.0.2/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/mustermann-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/mustermann-1.0.2/bench" />
+      </SOURCES>
+    </library>
     <library name="nenv (v0.3.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/nenv-0.3.0/lib" />
@@ -30550,6 +30560,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/rack-protection-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.1, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/rack-protection-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/rack-protection-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="rack-proxy (v0.6.3, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
@@ -40514,6 +40532,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/sinatra-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.1, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/sinatra-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/sinatra-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="slack-ruby-client (v0.11.0, RVM: ruby-2.5.0 [stitchfix-core_models]) [gem]">
