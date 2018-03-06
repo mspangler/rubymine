@@ -43742,6 +43742,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_client-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-fix_service_client (v1.5.0, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_client-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_client-1.5.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_client-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_client-1.5.0/.circleci" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-fix_service_view_states (v1.2.0, RVM: ruby-2.3.1 [mobile-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@mobile-service/gems/stitchfix-fix_service_view_states-1.2.0/lib" />
