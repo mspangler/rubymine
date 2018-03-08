@@ -24538,6 +24538,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/net-http-persistent-2.9.4/lib" />
       </SOURCES>
     </library>
+    <library name="net-http-persistent (v2.9.4, RVM: ruby-2.5.0 [styling-fee-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@styling-fee-service/gems/net-http-persistent-2.9.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@styling-fee-service/gems/net-http-persistent-2.9.4/lib" />
+      </SOURCES>
+    </library>
     <library name="net-http-persistent (v2.9.4, RVM: ruby-2.5.0 [thenames]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/net-http-persistent-2.9.4/lib" />
@@ -47364,6 +47372,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/stitchfix-style-pass-service-client-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/stitchfix-style-pass-service-client-1.0.0/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-style-pass-service-client (v1.0.0, RVM: ruby-2.5.0 [styling-fee-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@styling-fee-service/gems/stitchfix-style-pass-service-client-1.0.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@styling-fee-service/gems/stitchfix-style-pass-service-client-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@styling-fee-service/gems/stitchfix-style-pass-service-client-1.0.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@styling-fee-service/gems/stitchfix-style-pass-service-client-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-style_service_client (v1.13.0, RVM: ruby-2.3.3 [gregory]) [gem]">
