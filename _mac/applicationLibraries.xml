@@ -8458,6 +8458,7 @@
     </library>
     <library name="capybara-webkit (v1.15.0, RVM: ruby-2.5.0 [hellblazer]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/src" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/templates" />
@@ -8465,6 +8466,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/src" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/templates" />
