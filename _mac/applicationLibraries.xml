@@ -3278,6 +3278,106 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/angular-rails-templates-1.0.2/vendor" />
       </SOURCES>
     </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [client-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [gregory]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [stitchfix-core_models]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [styling-fee-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/demo" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="apitome (v0.1.0, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/apitome-0.1.0/lib" />
@@ -9242,6 +9342,86 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/childprocess-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [client-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [gregory]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [stitchfix-core_models]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [styling-fee-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="coderay (v1.1.1, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -20536,6 +20716,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/loofah-2.2.2/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.2.2, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/loofah-2.2.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/loofah-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/loofah-2.2.2/benchmark" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.12, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/lumberjack-1.0.12/lib" />
@@ -22828,6 +23018,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/msgpack-1.2.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/msgpack-1.2.3/doclib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/msgpack-1.2.3/bench" />
+      </SOURCES>
+    </library>
+    <library name="msgpack (v1.2.3, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/doclib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/doclib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/msgpack-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="msgpack (v1.2.4, RVM: ruby-2.5.0 [hellblazer]) [gem]">
@@ -26440,6 +26646,106 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@gregory/gems/paper_trail-8.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [client-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [gregory]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [stitchfix-core_models]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [styling-fee-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0 [thenames]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, RVM: ruby-2.5.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@global/gems/papertrail-0.10.4/bin" />
       </SOURCES>
     </library>
     <library name="parallel (v1.11.2, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -31514,6 +31820,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/rails-html-sanitizer-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.4, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/rails-html-sanitizer-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/rails-html-sanitizer-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rails-perftest (v0.0.7, RVM: ruby-2.3.3 [gregory]) [gem]">
@@ -42320,6 +42634,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/stitchfix-db_connections-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/stitchfix-db_connections-1.5.1/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/stitchfix-db_connections-1.5.1/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-env_management (v0.4.0, RVM: ruby-2.5.0 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/stitchfix-env_management-0.4.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/stitchfix-env_management-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/stitchfix-env_management-0.4.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/stitchfix-env_management-0.4.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/stitchfix-env_management-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-service/gems/stitchfix-env_management-0.4.0/bin" />
       </SOURCES>
     </library>
     <library name="stitchfix-env_management (v0.4.0, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
