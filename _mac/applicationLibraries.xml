@@ -10170,6 +10170,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-screenshot-1.0.18/lib" />
       </SOURCES>
     </library>
+    <library name="capybara-screenshot (v1.0.18, RVM: ruby-2.5.1 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-screenshot-1.0.18/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-screenshot-1.0.18/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-screenshot-1.0.18/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-screenshot-1.0.18/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara-webkit (v1.1.0, RVM: ruby-2.5.0 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.1.0/gemfiles" />
@@ -10236,6 +10246,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/templates" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/capybara-webkit-1.15.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="capybara-webkit (v1.15.0, RVM: ruby-2.5.1 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/src" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/templates" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/capybara-webkit-1.15.0/src" />
       </SOURCES>
     </library>
     <library name="CFPropertyList (v2.2.8, RVM: ruby-2.3.3 [kufak-suite]) [gem]">
@@ -22890,6 +22918,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/launchy-2.4.3/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/launchy-2.4.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/launchy-2.4.3/bin" />
+      </SOURCES>
+    </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.5.1 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
     <library name="lazy_loader (v2.0.20140328.22.37.12, RVM: ruby-2.3.1 [checkout]) [gem]">
