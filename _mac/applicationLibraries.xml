@@ -25612,6 +25612,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/money-6.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="money (v6.11.0, RVM: ruby-2.5.1 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/money-6.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/money-6.11.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/money-6.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/money-6.11.0/config" />
+      </SOURCES>
+    </library>
     <library name="mono_logger (v1.1.0, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/mono_logger-1.1.0/lib" />
@@ -52248,6 +52258,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/stitchfix-style-pass-service-client-1.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/stitchfix-style-pass-service-client-1.0.0/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-style-pass-service-client (v1.1.0, RVM: ruby-2.5.1 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/stitchfix-style-pass-service-client-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/stitchfix-style-pass-service-client-1.1.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/stitchfix-style-pass-service-client-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/stitchfix-style-pass-service-client-1.1.0/.circleci" />
       </SOURCES>
     </library>
     <library name="stitchfix-style_service_client (v1.13.0, RVM: ruby-2.3.3 [gregory]) [gem]">
