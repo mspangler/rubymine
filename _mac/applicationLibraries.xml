@@ -50358,6 +50358,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-core_models-14.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-data_transporter (v0.5.2, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-data_transporter-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-data_transporter-0.5.2/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-data_transporter-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-data_transporter-0.5.2/.circleci" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-db_connections (v0.10.0, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-db_connections-0.10.0/lib" />
@@ -51274,6 +51284,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_view_states-1.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_view_states-1.5.1/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-fix_service_view_states (v1.6.2, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_view_states-1.6.2/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_view_states-1.6.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_view_states-1.6.2/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-fix_service_view_states-1.6.2/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-fixops (v9.0.0, RVM: ruby-2.5.0 [shipment_checkout]) [gem]">
