@@ -19122,6 +19122,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/financial_transaction_service_client-2.3.1.rc1/lib" />
       </SOURCES>
     </library>
+    <library name="financial_transaction_service_client (v2.4.0, RVM: ruby-2.5.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/financial_transaction_service_client-2.4.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/financial_transaction_service_client-2.4.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/financial_transaction_service_client-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/financial_transaction_service_client-2.4.0/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/financial_transaction_service_client-2.4.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/financial_transaction_service_client-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="find_a_port (v1.0.1, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/find_a_port-1.0.1/lib" />
@@ -24246,6 +24258,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
+      </SOURCES>
+    </library>
+    <library name="json-schema (v2.8.0, RVM: ruby-2.5.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/json-schema-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/json-schema-2.8.0/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/json-schema-2.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/json-schema-2.8.0/resources" />
       </SOURCES>
     </library>
     <library name="jwt (v1.5.6, RVM: ruby-2.3.1 [hellblazer]) [gem]">
@@ -53312,6 +53334,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/stitchfix-fixops_service_client-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-gdpr (v0.0.2, RVM: ruby-2.5.1 [style-pass-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/schemas" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/json" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/.circleci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/schemas" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/json" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-service/gems/stitchfix-gdpr-0.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-immutable_struct (v1.2.0, RVM: ruby-2.3.1 [checkout]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@checkout/gems/stitchfix-immutable_struct-1.2.0/lib" />
@@ -56388,6 +56424,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/systemu-2.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/systemu-2.6.5/samples" />
+      </SOURCES>
+    </library>
+    <library name="taylor (v0.2.1, RVM: ruby-2.5.1 [style-pass-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/taylor-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/taylor-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/taylor-0.2.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/taylor-0.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/taylor-0.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/taylor-0.2.1/.circleci" />
       </SOURCES>
     </library>
     <library name="teaspoon (v1.1.5, RVM: ruby-2.3.1 [hellblazer]) [gem]">
