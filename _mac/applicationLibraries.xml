@@ -2915,9 +2915,11 @@
     <library name="activestorage (v5.2.0, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/activestorage-5.2.0/app" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/activestorage-5.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/activestorage-5.2.0/app" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.10, RVM: ruby-2.3.1 [clients]) [gem]">
@@ -4123,9 +4125,13 @@
     <library name="apitome (v0.1.0, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/apitome-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/apitome-0.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/apitome-0.1.0/vendor" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/apitome-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/apitome-0.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/apitome-0.1.0/vendor" />
       </SOURCES>
     </library>
     <library name="archive-zip (v0.11.0, RVM: ruby-2.5.1 [client-home-ui]) [gem]">
@@ -21113,17 +21119,29 @@
     <library name="jquery-rails (v4.3.1, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.1/vendor" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jquery-rails (v4.3.3, RVM: ruby-2.5.1 [client-home-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/jquery-rails-4.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/jquery-rails-4.3.3/lib" />
       </SOURCES>
     </library>
     <library name="jquery-rails (v4.3.3, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.3/vendor" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/jquery-rails-4.3.3/vendor" />
       </SOURCES>
     </library>
     <library name="json (v1.8.3, RVM: ruby-2.3.1 [checkout]) [gem]">
@@ -33140,6 +33158,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@style-pass-ui/gems/rack-proxy-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-proxy (v0.6.4, RVM: ruby-2.5.1 [client-home-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/rack-proxy-0.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/rack-proxy-0.6.4/lib" />
       </SOURCES>
     </library>
     <library name="rack-proxy (v0.6.4, RVM: ruby-2.5.1 [style-pass-ui]) [gem]">
@@ -49349,9 +49375,11 @@
     <library name="stitchfix-proof_of_life (v0.3.1, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/stitchfix-proof_of_life-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/stitchfix-proof_of_life-0.3.1/app" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/stitchfix-proof_of_life-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/stitchfix-proof_of_life-0.3.1/app" />
       </SOURCES>
     </library>
     <library name="stitchfix-referrals_client (v3.0.0, RVM: ruby-2.5.0 [hellblazer]) [gem]">
@@ -54572,6 +54600,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@style-pass-ui/gems/webpacker-3.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.5.3, RVM: ruby-2.5.1 [client-home-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/webpacker-3.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/webpacker-3.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="webpacker-react (v0.3.2, RVM: ruby-2.5.1 [client-home-ui]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/webpacker-react-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@client-home-ui/gems/webpacker-react-0.3.2/lib" />
       </SOURCES>
     </library>
     <library name="webrick (v1.3.1, RVM: ruby-2.3.1 [checkout]) [gem]">
