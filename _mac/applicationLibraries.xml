@@ -9834,11 +9834,9 @@
     </library>
     <library name="byebug (v10.0.2, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/byebug-10.0.2/lib" />
       </SOURCES>
     </library>
@@ -17710,11 +17708,9 @@
     </library>
     <library name="ffi (v1.9.23, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/ffi-1.9.23/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/ffi-1.9.23/lib" />
       </SOURCES>
     </library>
@@ -26614,11 +26610,9 @@
     </library>
     <library name="msgpack (v1.2.4, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/msgpack-1.2.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/msgpack-1.2.4/lib" />
       </SOURCES>
     </library>
@@ -28664,11 +28658,9 @@
     </library>
     <library name="nio4r (v2.3.1, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/nio4r-2.3.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/nio4r-2.3.1/lib" />
       </SOURCES>
     </library>
@@ -29228,11 +29220,9 @@
     </library>
     <library name="nokogiri (v1.8.2, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/nokogiri-1.8.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
@@ -31306,11 +31296,9 @@
     </library>
     <library name="pg (v0.21.0, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/pg-0.21.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/0.21.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/pg-0.21.0/lib" />
       </SOURCES>
     </library>
@@ -33312,11 +33300,9 @@
     </library>
     <library name="puma (v3.11.4, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/puma-3.11.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.11.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/puma-3.11.4/lib" />
       </SOURCES>
     </library>
@@ -34688,6 +34674,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rack-protection-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.2, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/rack-protection-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/rack-protection-2.0.2/lib" />
       </SOURCES>
     </library>
     <library name="rack-proxy (v0.6.3, RVM: ruby-2.5.0 [style-pass-ui]) [gem]">
@@ -38588,11 +38582,9 @@
     </library>
     <library name="rb-fsevent (v0.10.3, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/rb-fsevent-0.10.3/lib" />
       </SOURCES>
     </library>
@@ -46220,6 +46212,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/sinatra-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.2, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/sinatra-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/sinatra-2.0.2/lib" />
       </SOURCES>
     </library>
     <library name="slack-ruby-client (v0.11.0, RVM: ruby-2.5.0 [stitchfix-core_models]) [gem]">
@@ -57808,11 +57808,9 @@
     </library>
     <library name="websocket-driver (v0.7.0, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
     </library>
