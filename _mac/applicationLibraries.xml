@@ -34676,6 +34676,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/rack-protection-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.2, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/rack-protection-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/rack-protection-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.0.2, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/rack-protection-2.0.2/lib" />
@@ -46214,6 +46222,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@global/gems/sinatra-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="sinatra (v2.0.2, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/sinatra-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/sinatra-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="sinatra (v2.0.2, RVM: ruby-2.5.1 [styling-fee-service]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@styling-fee-service/gems/sinatra-2.0.2/lib" />
@@ -48618,6 +48634,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/stitchfix-core_models-14.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/stitchfix-core_models-14.1.0/db" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@thenames/gems/stitchfix-core_models-14.1.0/config" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-core_models (v14.10.0, RVM: ruby-2.5.0 [hellblazer]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-core_models-14.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.0@hellblazer/gems/stitchfix-core_models-14.10.0/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-core_models (v14.3.0, RVM: ruby-2.5.0 [hellblazer]) [gem]">
