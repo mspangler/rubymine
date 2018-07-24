@@ -57495,6 +57495,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.2/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-logger (v2.12.6, RVM: ruby-2.5.1 [kept-items-ui]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-logger-2.12.6/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-logger (v2.6.0, RVM: ruby-2.3.1 [clients]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@clients/gems/stitchfix-logger-2.6.0/lib" />
@@ -60200,6 +60219,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@kufak-suite/gems/systemu-2.6.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@kufak-suite/gems/systemu-2.6.5/samples" />
       </SOURCES>
+    </library>
+    <library name="taylor (v0.4.1, RVM: ruby-2.5.1 [kept-items-ui]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/taylor-0.4.1/.circleci" />
+      </excluded>
     </library>
     <library name="teaspoon (v1.1.5, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
