@@ -54395,6 +54395,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.7/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-client_facing_auth (v0.0.8, RVM: ruby-2.5.1 [kept-items-ui]) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1@kept-items-ui/gems/stitchfix-client_facing_auth-0.0.8/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-client_service_client (v3.1.2, RVM: ruby-2.3.1 [hellblazer]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@hellblazer/gems/stitchfix-client_service_client-3.1.2/lib" />
