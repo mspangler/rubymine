@@ -7,12 +7,15 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
-  <action id="RenameElement">
+  <action id="RemoteHostView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
