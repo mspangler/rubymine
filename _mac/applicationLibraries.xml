@@ -6221,11 +6221,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/2.18.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/oj-2.18.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/oj-2.18.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/oj-2.18.5/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/2.18.5" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/oj-2.18.5/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/oj-2.18.5/lib" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/oj-2.18.5/test" />
