@@ -9,6 +9,7 @@
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping pattern="SendBncEventJob" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.example" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
