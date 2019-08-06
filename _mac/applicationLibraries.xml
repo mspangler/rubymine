@@ -1622,6 +1622,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/marcel-0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="methadone (v2.0.2, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/templates" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/methadone-2.0.2/templates" />
+      </excluded>
+    </library>
     <library name="method_source (v0.9.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3281,6 +3303,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/sinatra-2.0.5/examples" />
       </excluded>
     </library>
+    <library name="slack-ruby-client (v0.14.4, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/screenshots" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/screenshots" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/examples" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/slack-ruby-client-0.14.4/screenshots" />
+      </excluded>
+    </library>
     <library name="spring (v2.1.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3985,6 +4032,33 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-style_service_client-2.12.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-style_service_client-2.12.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-y (v1.31.2, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/features" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/.circleci" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/features" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/.circleci" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/templates" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/.circleci" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-y-1.31.2/templates" />
       </excluded>
     </library>
     <library name="taylor (v1.3.0, asdf: 2.5.3) [gem]" type="rubylib">
