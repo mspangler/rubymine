@@ -14570,6 +14570,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.0/lib/ruby/gems/2.6.0/gems/stitchfix-metrics-1.8.2/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-native_app_integration (v0.0.1, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-native_app_integration-0.0.1/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-pact_utils (v1.5.5, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
