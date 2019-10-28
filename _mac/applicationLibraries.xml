@@ -11022,6 +11022,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-performance-1.4.1/config" />
       </excluded>
     </library>
+    <library name="rubocop-performance (v1.5.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-performance-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-performance-1.5.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-performance-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-performance-1.5.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rubocop-performance-1.5.0/config" />
+      </excluded>
+    </library>
     <library name="rubocop-rspec (v1.33.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
