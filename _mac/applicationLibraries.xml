@@ -1991,6 +1991,27 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.1/.github" />
       </excluded>
     </library>
+    <library name="bugsnag (v6.12.2, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/bugsnag-6.12.2/.github" />
+      </excluded>
+    </library>
     <library name="builder (v3.2.3, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9110,6 +9131,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.0/lib/ruby/gems/2.6.0/gems/rack-timeout-0.5.1/test" />
       </excluded>
     </library>
+    <library name="rack-timeout (v0.5.2, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/doc" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rack-timeout-0.5.2/test" />
+      </excluded>
+    </library>
     <library name="rails (v5.1.6.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10468,6 +10508,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.0/lib/ruby/gems/2.6.0/gems/rspec-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.9.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-3.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.8.0, asdf: 2.6.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10532,6 +10583,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.0/lib/ruby/gems/2.6.0/gems/rspec-core-3.8.2/exe" />
       </excluded>
     </library>
+    <library name="rspec-core (v3.9.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-core-3.9.0/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-core-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-core-3.9.0/exe" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-core-3.9.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-core-3.9.0/exe" />
+      </excluded>
+    </library>
     <library name="rspec-expectations (v3.8.4, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10563,6 +10630,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.8.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.9.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-expectations-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-its (v1.3.0, asdf: 2.5.3) [gem]" type="rubylib">
@@ -10651,6 +10729,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.9.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-mocks-3.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-rails (v3.8.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10682,6 +10771,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-rails-3.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails (v3.9.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-rails-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-rails-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-retry (v0.6.1, asdf: 2.5.3) [gem]" type="rubylib">
@@ -10769,6 +10869,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-support-3.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.9.0, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-support-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/rspec-support-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec_api_documentation (v6.1.0, asdf: 2.5.3) [gem]" type="rubylib">
@@ -14384,6 +14495,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.0/lib/ruby/gems/2.6.0/gems/stitchfix-instrumentation-1.15.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="stitchfix-instrumentation (v1.15.2, asdf: 2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-instrumentation-1.15.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.5.3/lib/ruby/gems/2.5.0/gems/stitchfix-instrumentation-1.15.2/lib" />
       </SOURCES>
     </library>
     <library name="stitchfix-item_price_service_client (v0.1.1, asdf: 2.6.0) [gem]" type="rubylib">
