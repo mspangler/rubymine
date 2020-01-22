@@ -21234,6 +21234,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.6.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-client_facing_auth (v1.7.0.RC1, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_facing_auth-1.7.0.RC1/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-client_incentive_service_client (v0.1.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
