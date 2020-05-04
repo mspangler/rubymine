@@ -15603,6 +15603,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/pact-support-1.14.3/lib" />
       </SOURCES>
     </library>
+    <library name="pact-support (v1.15.0, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/pact-support-1.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/pact-support-1.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.17.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -25559,6 +25570,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-api_client (v1.33.1, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-api_client-1.33.1/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-aws_healthcheck (v0.3.0, asdf: 2.6.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -26407,6 +26437,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.29.1/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-client_service_client (v3.32.0, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-client_service_client-3.32.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-client_status_data (v1.0.0, asdf: 2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -26678,6 +26727,34 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-21.1.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-core_models (v22.0.0, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/db" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-core_models-22.0.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-crex_client (v1.0.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -26874,6 +26951,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.1.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.1.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.1.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-crex_client (v2.2.1, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-2.2.1/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-currency (v4.10.2, asdf: 2.5.3) [gem]" type="rubylib">
@@ -29871,6 +29970,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.21.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-kept_items_service_client (v1.23.0, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-kept_items_service_client-1.23.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-kept_items_service_client (v1.5.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -30338,6 +30456,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.3.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.3.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-log_weasel (v1.4.0, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-log_weasel-1.4.0/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-logger (v2.17.1, asdf: 2.5.3) [gem]" type="rubylib">
@@ -31063,6 +31203,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.2/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.2/.github" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.2/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-pact_utils (v1.6.4, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-pact_utils-1.6.4/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-page_author_service_client (v0.3.1, asdf: 2.6.5) [gem]" type="rubylib">
@@ -31956,6 +32118,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.4.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.4.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-shipping (v2.5.0, asdf: 2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-shipping-2.5.0/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-sift_service_client (v2.3.1, asdf: 2.5.3) [gem]" type="rubylib">
