@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="rspec" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.example" type="PLAIN_TEXT" />
       <mapping pattern="SendBncEventJob" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
