@@ -25875,6 +25875,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.1/examples" />
       </excluded>
     </library>
+    <library name="pry-rescue (v1.5.2, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/examples" />
+      </excluded>
+    </library>
     <library name="pry-stack_explorer (v0.4.9.3, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -44633,6 +44655,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-instrumentation-1.16.0/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-instrumentation (v2.0.1, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-instrumentation-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-instrumentation-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-inventory_location_client (v0.1.5, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -49435,6 +49468,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.2/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.2/.github" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.2/.circleci" />
+      </excluded>
+    </library>
+    <library name="taylor (v1.4.3, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.circleci" />
       </excluded>
     </library>
     <library name="tcell_agent (v1.1.10, asdf: 2.5.3) [gem]" type="rubylib">
