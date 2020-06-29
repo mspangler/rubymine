@@ -49919,6 +49919,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.13.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-messaging (v1.14.0, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-messaging (v1.6.2, asdf: 2.6.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -58047,6 +58069,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/zeitwerk-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.3.1, asdf: 2.6.6) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/zeitwerk-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/zeitwerk-2.3.1/lib" />
       </SOURCES>
     </library>
     <library name="zendesk_api (v1.20.0, asdf: 2.5.3) [gem]" type="rubylib">
