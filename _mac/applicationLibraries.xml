@@ -3964,6 +3964,29 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/apitome-0.1.0/config" />
       </excluded>
     </library>
+    <library name="apitome (v0.1.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/app" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/apitome-0.1.0/config" />
+      </excluded>
+    </library>
     <library name="apitome (v0.2.0@c779d6, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5570,6 +5593,30 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/binding_of_caller-0.8.0/examples" />
+      </excluded>
+    </library>
+    <library name="binding_of_caller (v0.8.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/binding_of_caller/0.8.0" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/binding_of_caller/0.8.0" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/test" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/binding_of_caller-0.8.0/examples" />
       </excluded>
     </library>
     <library name="bootsnap (v1.4.2, asdf: 2.6.1) [gem]" type="rubylib">
@@ -10823,6 +10870,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/database_cleaner-1.8.5/adapters" />
       </excluded>
     </library>
+    <library name="database_cleaner (v1.8.5, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/database_cleaner-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/database_cleaner-1.8.5/adapters" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/database_cleaner-1.8.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/database_cleaner-1.8.5/adapters" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/database_cleaner-1.8.5/adapters" />
+      </excluded>
+    </library>
     <library name="database_cleaner-active_record (v1.8.0, asdf: 2.6.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11253,6 +11316,27 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/debug_inspector-0.0.3/test" />
+      </excluded>
+    </library>
+    <library name="debug_inspector (v0.0.3, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/debug_inspector/0.0.3" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/debug_inspector-0.0.3/test" />
       </excluded>
     </library>
     <library name="delegate (v0.1.0, asdf: 2.7.1) [gem]" type="rubylib">
@@ -12214,6 +12298,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/down-5.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="down (v5.1.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/down-5.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/down-5.1.1/lib" />
       </SOURCES>
     </library>
     <library name="draper (v3.1.0, asdf: 2.5.3) [gem]" type="rubylib">
@@ -18533,6 +18628,30 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/interception-0.5/examples" />
       </excluded>
     </library>
+    <library name="interception (v0.5, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/interception/0.5" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/interception/0.5" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/interception-0.5/examples" />
+      </excluded>
+    </library>
     <library name="io-console (v0.4.6, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -19759,6 +19878,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/jwt-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="jwt (v2.2.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/jwt-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/jwt-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kaminari (v1.1.1, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20181,6 +20311,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/kramdown-2.2.1/man" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/kramdown-2.2.1/data" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/kramdown-2.2.1/test" />
+      </excluded>
+    </library>
+    <library name="kramdown (v2.2.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/data" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/kramdown-2.2.1/test" />
       </excluded>
     </library>
     <library name="launchy (v2.4.3, asdf: 2.5.3) [gem]" type="rubylib">
@@ -23412,6 +23567,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/mustache-1.1.1/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/mustache-1.1.1/man" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/mustache-1.1.1/test" />
+      </excluded>
+    </library>
+    <library name="mustache (v1.1.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/man" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/mustache-1.1.1/test" />
       </excluded>
     </library>
     <library name="mustermann (v1.0.3, asdf: 2.5.3) [gem]" type="rubylib">
@@ -26845,6 +27022,27 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pg-0.21.0/spec" />
       </excluded>
     </library>
+    <library name="pg (v0.21.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/pg/0.21.0" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/pg/0.21.0" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/ext" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pg-0.21.0/spec" />
+      </excluded>
+    </library>
     <library name="pg (v1.1.4, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -27844,6 +28042,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-rescue-1.5.2/examples" />
       </excluded>
     </library>
+    <library name="pry-rescue (v1.5.2, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-rescue-1.5.2/examples" />
+      </excluded>
+    </library>
     <library name="pry-stack_explorer (v0.4.9.3, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -27959,6 +28179,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pry-stack_explorer-0.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-stack_explorer (v0.5.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-stack_explorer-0.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pry-stack_explorer-0.5.1/lib" />
       </SOURCES>
     </library>
     <library name="pstore (v0.1.0, asdf: 2.7.1) [gem]" type="rubylib">
@@ -29345,6 +29576,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pwwka-0.22.7/docs" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pwwka-0.22.7/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/pwwka-0.22.7/.circleci" />
+      </excluded>
+    </library>
+    <library name="pwwka (v0.22.7, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/docs" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/pwwka-0.22.7/.circleci" />
       </excluded>
     </library>
     <library name="pwwka (v0.22.7.RC, asdf: 2.6.5) [gem]" type="rubylib">
@@ -33778,6 +34031,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/responders-3.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="responders (v3.0.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/responders-3.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/responders-3.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="responsys_interact (v1.11.0, asdf: 2.6.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -36301,6 +36565,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/rspec_api_documentation-6.1.0/templates" />
+      </excluded>
+    </library>
+    <library name="rspec_api_documentation (v6.1.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/rspec_api_documentation-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/rspec_api_documentation-6.1.0/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/rspec_api_documentation-6.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/rspec_api_documentation-6.1.0/templates" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/rspec_api_documentation-6.1.0/templates" />
       </excluded>
     </library>
     <library name="rspec_junit_formatter (v0.4.1, asdf: 2.5.3) [gem]" type="rubylib">
@@ -41802,6 +42082,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitches-3.8.3/.circleci" />
       </excluded>
     </library>
+    <library name="stitches (v3.8.3, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitches-3.8.3/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-address (v1.5.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -44749,6 +45051,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-crex_client-4.5.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-crex_client (v4.5.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.5.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-currency (v4.10.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45276,6 +45600,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-db_connections-1.10.1/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-db_connections-1.10.1/config" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-db_connections-1.10.1/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-db_connections (v1.10.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/config" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-db_connections-1.10.1/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-db_connections (v1.8.0, asdf: 2.6.1) [gem]" type="rubylib">
@@ -48040,6 +48386,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-instrumentation-2.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="stitchfix-instrumentation (v2.0.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-instrumentation-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-instrumentation-2.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="stitchfix-inventory_location_client (v0.1.5, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -48171,6 +48528,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-item_service_client-1.4.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-item_service_client-1.4.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-item_service_client (v1.4.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-item_service_client-1.4.0/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-items (v5.31.0, asdf: 2.6.1) [gem]" type="rubylib">
@@ -49939,6 +50315,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.14.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-messaging (v1.14.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-messaging-1.14.0/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-messaging (v1.6.2, asdf: 2.6.1) [gem]" type="rubylib">
@@ -52429,6 +52827,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/stitchfix-style_service_client-2.12.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-style_service_client (v2.12.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-style_service_client-2.12.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-styling_fee_service_client (v2.0.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -53418,6 +53835,31 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.github" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/taylor-1.4.3/.circleci" />
+      </excluded>
+    </library>
+    <library name="taylor (v1.4.3, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/taylor-1.4.3/.circleci" />
       </excluded>
     </library>
     <library name="tcell_agent (v1.1.10, asdf: 2.5.3) [gem]" type="rubylib">
@@ -58080,6 +58522,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.6/lib/ruby/gems/2.6.0/gems/zeitwerk-2.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="zeitwerk (v2.3.1, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/zeitwerk-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/zeitwerk-2.3.1/lib" />
       </SOURCES>
     </library>
     <library name="zendesk_api (v1.20.0, asdf: 2.5.3) [gem]" type="rubylib">
