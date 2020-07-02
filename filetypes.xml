@@ -4,8 +4,8 @@
       <mapping pattern=".tool-version" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.example" type="PLAIN_TEXT" />
-      <mapping pattern="rspec" type="PLAIN_TEXT" />
       <mapping pattern="SendBncEventJob" type="PLAIN_TEXT" />
+      <mapping pattern="rspec" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
