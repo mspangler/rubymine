@@ -22875,6 +22875,22 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/money-6.13.7/config" />
       </excluded>
     </library>
+    <library name="money (v6.13.8, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/money-6.13.8/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/money-6.13.8/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/money-6.13.8/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/money-6.13.8/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/money-6.13.8/config" />
+      </excluded>
+    </library>
     <library name="money-rails (v1.13.2, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -43442,6 +43458,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.38.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-api_client (v1.39.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-api_client-1.39.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-aws_healthcheck (v0.3.0, asdf: 2.6.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -45556,6 +45591,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.6.0/bin" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.6.0/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.6.0/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-crex_client (v4.7.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/bin" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-crex_client-4.7.0/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-currency (v4.10.2, asdf: 2.5.3) [gem]" type="rubylib">
