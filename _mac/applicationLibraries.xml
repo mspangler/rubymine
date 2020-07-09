@@ -13340,6 +13340,17 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/factory_bot-6.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="factory_bot (v6.1.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/factory_bot-6.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/factory_bot-6.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="factory_bot_rails (v5.0.1, asdf: 2.6.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13481,6 +13492,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/factory_bot_rails-6.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="factory_bot_rails (v6.1.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/factory_bot_rails-6.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/factory_bot_rails-6.1.0/lib" />
       </SOURCES>
     </library>
     <library name="faker (v1.9.6, asdf: 2.5.3) [gem]" type="rubylib">
@@ -44645,6 +44667,25 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-concurrency-0.1.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-concurrency (v0.1.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-concurrency-0.1.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-core_models (v16.0.0, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -50432,6 +50473,28 @@
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.4.0/.circleci" />
       </excluded>
     </library>
+    <library name="stitchfix-log_weasel (v1.5.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-log_weasel-1.5.0/.circleci" />
+      </excluded>
+    </library>
     <library name="stitchfix-logger (v2.17.1, asdf: 2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -51137,6 +51200,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.9.3/spec" />
         <root url="file://$USER_HOME$/.asdf/installs/ruby/2.6.5/lib/ruby/gems/2.6.0/gems/stitchfix-messaging-1.9.3/.circleci" />
+      </excluded>
+    </library>
+    <library name="stitchfix-metrics (v1.10.0, asdf: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/lib" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/spec" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/.github" />
+        <root url="file://$USER_HOME$/.asdf/installs/ruby/2.7.1/lib/ruby/gems/2.7.0/gems/stitchfix-metrics-1.10.0/.circleci" />
       </excluded>
     </library>
     <library name="stitchfix-metrics (v1.8.1, asdf: 2.5.3) [gem]" type="rubylib">
